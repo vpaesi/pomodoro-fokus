@@ -1,6 +1,6 @@
 # Olá! Bem vindo ao meu projeto de Pomodoro: Fokus.
 
-A técninca pomodoro é utilizada como ferramenta para focar em uma atividade de forma que não seja exaustivo para pessoa. Assim, deve-se focar em realizar a tarefa por 25 minutos e descansar por 5 minutos. Após uma hora é recomendado uma pausa longa de cerca de 15 minutos.
+A técnica pomodoro é utilizada como ferramenta para focar em uma atividade de forma que não seja exaustivo para pessoa. Assim, deve-se focar em realizar a tarefa por 25 minutos e descansar por 5 minutos. Após uma hora é recomendado uma pausa longa de cerca de 15 minutos.
 
 O projeto Pomodoro Fokus tem a tela de foco (25 minutos), descanso curto (5 minutos) e descanso longo (15 minutos). A tela é interativa, atualizando conforme a etapa do Pomodoro que o usuário estiver, além de ter disponível uma música de fundo relaxante que pode ser ativada e desativada.
 
